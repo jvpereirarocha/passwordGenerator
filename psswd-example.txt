@@ -1,0 +1,3 @@
+Example of file text:
+
+Password <any_password> created at dd/mm/yyyy 
