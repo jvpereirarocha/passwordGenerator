@@ -7,7 +7,7 @@ Password Generator is a simple project built with Javascript run on Node JS Engi
 ## Instructions
 1. Clone this repository
 
-2. Install the NodeJs. I've built this project run the script with the version 14.16.1 of Node but I think it's works in other versions
+2. Install the NodeJs. I've built this project run the script with the version 14.16.1 of Node but I think it works in other versions
 
 3. At the root project folder, run the command ``ǹode main.js``
 
