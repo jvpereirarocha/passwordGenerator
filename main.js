@@ -5,7 +5,7 @@ const { formatDate } = require('./dateUtils.js');
 
 const filePath = path.join(__dirname, 'psswd.txt');
 
-const randomicPassword = generatePassword(3);
+const randomicPassword = generatePassword(5);
 const formatedDate = formatDate(new Date());
 const content = `Password ${randomicPassword} created at ${formatedDate} `;
 
