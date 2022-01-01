@@ -1,8 +1,5 @@
 function charExists(sequence, char) {
-    if (sequence.includes(char))
-        return true;
-
-    return false;
+    return sequence.includes(char);
 }
 
 function generatedChar(characters) {
